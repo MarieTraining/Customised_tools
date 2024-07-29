@@ -42,8 +42,8 @@ class ScreenScissors(tk.Tk):
 
     def end_selection(self, event):
         end_x, end_y = event.x, event.y
-        self.screen.destroy()  # Close the overlay window
-        self.deiconify()  # Show main window
+        self.screen.destroy()  # zavri okno
+        self.deiconify()  # ukaz hlavni okno
 
         # celou obrazovku
         screenshot = pyautogui.screenshot()
