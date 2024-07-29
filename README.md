@@ -1,1 +1,1 @@
-Simple toolkits - created to satisfy to my personal needs 
+Simple toolkits - created to satisfy to my needs 
